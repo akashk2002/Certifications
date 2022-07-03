@@ -1,6 +1,6 @@
 # Certifications
 
-##AWS
+## AWS
 ### AWS Certified Solutions Architect – Associate
 #### https://www.credly.com/earner/earned/badge/a3ab7768-702d-4766-a399-3232915ed87d
 
